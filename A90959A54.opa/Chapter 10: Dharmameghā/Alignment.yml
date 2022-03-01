@@ -1,0 +1,33 @@
+segment_sources:
+  P96607170:
+    type: origin_type
+    relation: translation
+    language: bo
+  P9D4B9EDC:
+    type: origin_type
+    relation: translation
+    language: en
+  P40880C04:
+    type: origin_type
+    relation: translation
+    language: bo
+  P7114A91B:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  44f2079eaf8849d783363d975260c48a:
+    P96607170: c48e4fbd146c440a9d862f009f7a981c
+    P9D4B9EDC: b11f1dc3050348cc9b09461042b82863
+    P40880C04: 9b94c35c76604b30becf0e8635c6e875
+    P7114A91B: a6365952825f476e9923005cec05a78b
+  f19f16f5c2904c78af5018214a2d8ab7:
+    P96607170: 6318e0f826ed4abba0876b71f60f0738
+    P9D4B9EDC: 6310f9f78a404e79a7d2525faf785499
+    P40880C04: 8a93512f084e44999b63376083f8d9f0
+    P7114A91B: d48fbb7a6d68499997e72e9d4f3ff318
+  dec11578e0204bf1ace0de92cdbe0695:
+    P96607170: None
+    P9D4B9EDC: 4f4094d0dbf0434aa3cba77d47c865d9
+    P40880C04: None
+    P7114A91B: 76b1a246457c4ef0aa73d35dd6a3135a
